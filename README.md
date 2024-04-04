@@ -56,6 +56,14 @@ Reichen Sie einen Pull-Request ein.
 
 PokeAPI: Stellt die in diesem Projekt verwendeten Daten bereit. Besuchen Sie [PokeAPI](https://pokeapi.co/) für weitere Informationen.
 
-### Lizenz
+## Projekt von
+
+Dieses Projekt ist eine Implementierung des freeCodeCamp-Projekts "Build a Pokémon Search App" im JavaScript-Algorithmen- und Datenstrukturkurs.
+
+## Mitwirkende
+
+- [freeCodeCamp](https://github.com/freeCodeCamp)
+
+## Lizenz
 
 Dieses Projekt steht unter der MIT-Lizenz. Details finden Sie in der [LICENSE](https://github.com/mariokreitz/pokedex?tab=MIT-1-ov-file)-Datei.
