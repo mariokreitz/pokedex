@@ -8,9 +8,7 @@ Pokedex ist eine Webanwendung, die als interaktive digitale Enzyklopädie für P
 
 Durchsuchen von Pokémon: Entdecken Sie eine große Sammlung von Pokémon-Arten.
 Suche: Suchen Sie einfach nach bestimmten Pokémon nach Namen oder ID.
-Filtern: Filtern Sie Pokémon nach Typ, Fähigkeiten oder anderen Attributen.
-Detaillierte Informationen: Anzeigen detaillierter Informationen zu jedem Pokémon, einschließlich Statistiken, Fähigkeiten, Attacken und Entwicklungen.
-Favoriten: Speichern Sie Ihre Lieblings-Pokémon für einen schnellen Zugriff.
+Detaillierte Informationen: Anzeigen detaillierter Informationen zu jedem Pokémon.
 Responsive Design: Genießen Sie ein nahtloses Erlebnis auf verschiedenen Geräten.
 
 ## Verwendete Technologien
@@ -41,7 +39,7 @@ Das war's! Sie sollten Pokedex jetzt auf Ihrem lokalen Rechner verwenden können
 
 ## Verwendung
 
-Beim Öffnen von Pokedex wird eine Liste von Pokémon angezeigt. Sie können auf ein beliebiges Pokémon klicken, um weitere Details dazu anzuzeigen, einschließlich seiner Fähigkeiten, Attacken und Entwicklungen. Darüber hinaus können Sie die Suchleiste verwenden, um bestimmte Pokémon nach Namen oder ID zu finden, oder die Filter verwenden, um Ihre Suche anhand von Typ, Fähigkeiten oder anderen Attributen einzugrenzen.
+Beim Öffnen von Pokedex wird eine leere Suchleiste sowie ein leeres Template angezeigt. Sie können die Suchleiste verwenden, um bestimmte Pokémon nach Namen oder ID zu finden.
 
 ## Mitarbeit
 
