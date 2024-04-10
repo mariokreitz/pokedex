@@ -5,8 +5,110 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Pokédex</title>
     <link rel="stylesheet" href="/src/css/style.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@400..700&display=swap" rel="stylesheet" />
   </head>
   <body>
+    <main>
+      <div class="pokedex">
+        <div class="power-status"></div>
+        <div class="pokedex-screen">
+          <div id="sprite-container" class="sprite-container">
+            <img id="sprite" src="/src/img/dummy.png" alt="current pokemon" />
+          </div>
+          <div class="current-pokemon-stats">
+            <div class="stat">
+              <p>#<span id="pokemon-id">a</span></p>
+              <span id="pokemon-name">a</span>
+            </div>
+            <div class="stat">
+              <p>HP</p>
+              <span id="hp">a</span>
+            </div>
+            <div class="stat">
+              <p>Atk</p>
+              <span id="attack">a</span>
+            </div>
+            <div class="stat">
+              <p>Def</p>
+              <span id="defense">a</span>
+            </div>
+            <div class="stat">
+              <p>Sp. Atk</p>
+              <span id="special-attack">a</span>
+            </div>
+            <div class="stat">
+              <p>Sp. Def</p>
+              <span id="special-defense">a</span>
+            </div>
+            <div class="stat">
+              <p>Weight</p>
+              <span id="weight">a</span>
+            </div>
+            <div class="stat">
+              <p>Height</p>
+              <span id="height">a</span>
+            </div>
+            <div class="stat">
+              <p>Speed</p>
+              <span id="speed">a</span>
+            </div>
+          </div>
+          <div class="search">
+            <div id="types">
+              <span>Poisen</span>
+              <span>Grass</span>
+            </div>
+            <form role="search" id="search-form">
+              <label for="search-input"></label>
+              <input type="text" name="pokemon" id="search-input" required />
+              <button id="search-button">Search</button>
+            </form>
+          </div>
+        </div>
+        <div class="flipp-border"></div>
+        <div class="flipper-bobbel"></div>
+        <div class="control">
+          <div class="cross"></div>
+        </div>
+        <div class="enter-button">
+          <div class="enter"></div>
+        </div>
+        <div class="number-pad">
+          <div class="number">1</div>
+          <div class="number">2</div>
+          <div class="number">3</div>
+          <div class="number">4</div>
+          <div class="number">5</div>
+          <div class="number">6</div>
+          <div class="number">7</div>
+          <div class="number">8</div>
+          <div class="number">9</div>
+          <div class="number">0</div>
+          <div class="number">#</div>
+        </div>
+        <div class="speaker">
+          <div class="bar"></div>
+          <div class="bar"></div>
+          <div class="bar"></div>
+        </div>
+      </div>
+    </main>
+    <footer>
+      <div class="credits">
+        Hintergrundbild von
+        <a
+          href="https://pixabay.com/de/users/serenawong-3060442/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1600483"
+          >Serena Wong</a
+        >
+        auf
+        <a
+          href="https://pixabay.com/de//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1600483"
+          >Pixabay</a
+        >
+      </div>
+    </footer>
     <script src="script.js"></script>
   </body>
 </html>
