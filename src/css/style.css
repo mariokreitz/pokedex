@@ -60,9 +60,12 @@ main {
   display: flex;
   justify-content: space-between;
 }
+.stat:first-child {
+  flex-direction: column;
+}
 .stat > p,
 span {
-  font-size: 1rem;
+  font-size: 0.9rem;
 }
 .search {
   position: absolute;
