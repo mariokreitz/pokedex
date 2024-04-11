@@ -55,6 +55,11 @@ Reichen Sie einen Pull-Request ein.
 ### Credits
 
 PokeAPI: Stellt die in diesem Projekt verwendeten Daten bereit. Besuchen Sie [PokeAPI](https://pokeapi.co/) für weitere Informationen.
+Franziska: Pokédex Design.
+
+## Design
+
+![cover](https://raw.githubusercontent.com/mariokreitz/pokedex/main/src/img/cover_example.png)
 
 ## Projekt von
 
