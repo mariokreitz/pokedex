@@ -55,7 +55,7 @@ Reichen Sie einen Pull-Request ein.
 ### Credits
 
 PokeAPI: Stellt die in diesem Projekt verwendeten Daten bereit. Besuchen Sie [PokeAPI](https://pokeapi.co/) für weitere Informationen.
-Franziska: Pokédex Design.
+Art/Design: PokéDex und Hintergrundbild wurden von [Franziska](https://www.instagram.com/18ago/) erstellt.
 
 ## Design
 
