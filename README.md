@@ -1,4 +1,4 @@
-# Pokedex
+# Pokedex [![Netlify Status](https://api.netlify.com/api/v1/badges/06f1835e-cb62-4958-8c71-a5dfaa03e7e3/deploy-status)](https://app.netlify.com/sites/fancy-pokedex/deploys)
 
 ![Pokedex Logo](https://archives.bulbagarden.net/media/upload/4/4b/Pok%C3%A9dex_logo.png)
 
