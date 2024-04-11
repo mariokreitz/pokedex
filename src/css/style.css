@@ -5,14 +5,15 @@
   padding: 0;
   box-sizing: border-box;
 }
+html {
+  height: 100%;
+}
 body {
-  background-image: url('/src/img/background.jpg');
+  background-image: url('/src/img/Poke_Hintergrnd_pixeld.png');
   background-size: cover;
+  background-position: center;
   background-repeat: no-repeat;
-  background-color: #e5d286;
   font-family: 'Pixelify Sans', sans-serif;
-  font-optical-sizing: auto;
-  font-style: normal;
 }
 main {
   display: flex;
@@ -102,8 +103,9 @@ footer {
   left: 0;
   bottom: 0;
   width: 100%;
-  color: black;
+  color: red;
   text-align: center;
+  font-size: 1.8rem;
 }
 /* Special styling for Pokémon types */
 
